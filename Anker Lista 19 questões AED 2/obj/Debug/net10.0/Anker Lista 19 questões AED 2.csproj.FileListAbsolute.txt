@@ -1,0 +1,14 @@
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\bin\Debug\net10.0\Anker Lista 19 questões AED 2.exe
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\bin\Debug\net10.0\Anker Lista 19 questões AED 2.deps.json
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\bin\Debug\net10.0\Anker Lista 19 questões AED 2.runtimeconfig.json
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\bin\Debug\net10.0\Anker Lista 19 questões AED 2.dll
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\bin\Debug\net10.0\Anker Lista 19 questões AED 2.pdb
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\Anker Lista 19 questões AED 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\Anker Lista 19 questões AED 2.AssemblyInfoInputs.cache
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\Anker Lista 19 questões AED 2.AssemblyInfo.cs
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\Anker Lista 19 questões AED 2.csproj.CoreCompileInputs.cache
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\Anker Lista 19 questões AED 2.dll
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\refint\Anker Lista 19 questões AED 2.dll
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\Anker Lista 19 questões AED 2.pdb
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\Anker Lista 19 questões AED 2.genruntimeconfig.cache
+E:\Anker Lista 19 questões AED 2\Anker Lista 19 questões AED 2\obj\Debug\net10.0\ref\Anker Lista 19 questões AED 2.dll
