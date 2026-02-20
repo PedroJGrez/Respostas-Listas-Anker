@@ -1,0 +1,4 @@
+E:\Lista Anker Niveis Facil-Medio-Dificil\Lista Anker Niveis Facil-Medio-Dificil\obj\Debug\net10.0\Lista Anker Niveis Facil-Medio-Dificil.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lista Anker Niveis Facil-Medio-Dificil\Lista Anker Niveis Facil-Medio-Dificil\obj\Debug\net10.0\Lista Anker Niveis Facil-Medio-Dificil.AssemblyInfoInputs.cache
+E:\Lista Anker Niveis Facil-Medio-Dificil\Lista Anker Niveis Facil-Medio-Dificil\obj\Debug\net10.0\Lista Anker Niveis Facil-Medio-Dificil.AssemblyInfo.cs
+E:\Lista Anker Niveis Facil-Medio-Dificil\Lista Anker Niveis Facil-Medio-Dificil\obj\Debug\net10.0\Lista Anker Niveis Facil-Medio-Dificil.csproj.CoreCompileInputs.cache
